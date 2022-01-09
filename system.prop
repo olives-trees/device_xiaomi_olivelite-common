@@ -1,2 +1,6 @@
 # Fwk detect
 ro.vendor.qti.va_aosp.support=1
+
+# Round corners
+ro.com.google.ime.corner_key_r=35
+
