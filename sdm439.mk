@@ -127,7 +127,10 @@ PRODUCT_PACKAGES += \
     SimpleGallery
 
 PRODUCT_PACKAGES += \
-    MiCalculator            
+    MiCalculator
+
+PRODUCT_PACKAGES += \
+    MiXplorer                
 
 PRODUCT_PACKAGES += \
     CustomQSLonghsot    
