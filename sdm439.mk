@@ -372,6 +372,10 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/permissions/privapp-permissions-com.customqs.lonshot.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp-permissions-com.customqs.lonshot.xml \
     $(LOCAL_PATH)/default-permissions/default-asus-permissions.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/default-permissions/default-asus-permissions.xml
 
+# Google Photos
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/configs/pixel_2022_exclusive.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/pixel_2022_exclusive.xml            
+
 # Wifi
 PRODUCT_PACKAGES += \
     android.hardware.wifi@1.0-service \
