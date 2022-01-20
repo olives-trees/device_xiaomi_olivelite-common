@@ -130,7 +130,10 @@ PRODUCT_PACKAGES += \
     MiCalculator
 
 PRODUCT_PACKAGES += \
-    MiXplorer                
+    MiXplorer
+
+PRODUCT_PACKAGES += \
+    GoogleRecorder                       
 
 PRODUCT_PACKAGES += \
     CustomQSLonghsot    
