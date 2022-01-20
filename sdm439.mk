@@ -124,7 +124,10 @@ PRODUCT_PACKAGES += \
     ViaBrowser
 
 PRODUCT_PACKAGES += \
-    SimpleGallery        
+    SimpleGallery
+
+PRODUCT_PACKAGES += \
+    MiCalculator            
 
 PRODUCT_PACKAGES += \
     CustomQSLonghsot    
