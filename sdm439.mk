@@ -116,16 +116,10 @@ PRODUCT_PACKAGES += \
     GCamGOPrebuilt
 
 PRODUCT_PACKAGES += \
-    ViaBrowser
-
-PRODUCT_PACKAGES += \
     SimpleGallery
 
 PRODUCT_PACKAGES += \
     MiCalculator
-
-PRODUCT_PACKAGES += \
-    MiXplorer
 
 PRODUCT_PACKAGES += \
     GoogleRecorder                       
