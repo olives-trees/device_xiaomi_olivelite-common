@@ -113,16 +113,7 @@ PRODUCT_PACKAGES += \
     libstdc++.vendor
 
 PRODUCT_PACKAGES += \
-    GCamGOPrebuilt
-
-PRODUCT_PACKAGES += \
-    SimpleGallery
-
-PRODUCT_PACKAGES += \
-    MiCalculator
-
-PRODUCT_PACKAGES += \
-    GoogleRecorder                       
+    GCamGOPrebuilt                     
 
 PRODUCT_PACKAGES += \
     libwa_dof
